@@ -3,6 +3,7 @@
 ## Team Members
 - Vathsavi Venkat
 - Yash Patel
+- Zubin Ladwa
 
 ## Introduction to Problem or Opportunity
 
