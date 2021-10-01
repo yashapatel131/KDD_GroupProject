@@ -7,7 +7,7 @@ This project is part of the Knowledge Discovery in Databases (DSBA 6162) course 
 - Zubin Ladwa
 
 ## Introduction to Problem or Opportunity
-We all love music, but what about a song makes it a hit? Also we would love to see how song tastes changes during the pandemic.
+Music is all around us and plays a key part in today’s culture. Popularity in music is always so hard to determine. It is always a guessing game finding out which song is going to be a hit or a flop. Music popularity plays a big role in if the song is going to be a Grammy winner or not as well. Also there are different perspectives we need to take into consideration such a how music taste changes during a pandemic such as the one that is taking place or by season. Here we will be going through and see the popularity of music based on the songs attributes.  
 
 ## Research Question
 How do different song attributes have and effect on a songs poularity?
