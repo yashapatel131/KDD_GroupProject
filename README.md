@@ -13,4 +13,13 @@ Music is all around us and plays a key part in today’s culture. Popularity in 
 Given the past 10 years of data, we want to determine what effect song attributes (Danceability, Energy, Tempo, etc.) have on the popularity of a song that has been obtained from the US population. Can the song attributes predict whether it will be a Grammy award winner?
 
 ## Data Resources
-We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects.
+We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects. 
+
+
+## Date Preprocessing
+
+
+## Data Understanding and Exploration
+
+
+## Data Preparation for Modeling
