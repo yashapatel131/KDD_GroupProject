@@ -16,7 +16,7 @@ Given the past 20 years of data, we want to determine what effect song attribute
 We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects. 
 
 ## Date Preprocessing
-
+Pre Processing is used at the beginning stages to prepare the data for evolution and modeling. The song data that was used did not have any missing values, so due to that we did not have to deal with the issue of missing data. A new column was created called popularityLabel which is the values from the popularity column that was calculated so that if the popularity value of the song is greater than 20 then the song is given the label of “Popular” and if less than 20 then the value is given the label of “Unpopular”.  
 
 ## Data Understanding and Exploration
 With the different tastes in music there is for sure a variation in the different types of attributed that compose each individual song. Through the use of visualizations the underlying trends within the data were able to be presented.
