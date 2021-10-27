@@ -15,11 +15,12 @@ Given the past 20 years of data, we want to determine what effect song attribute
 ## Data Resources
 We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects. 
 
-
 ## Date Preprocessing
 
 
 ## Data Understanding and Exploration
+With the different tastes in music there is for sure a variation in the different types of attributed that compose each individual song. Through the use of visualizations the underlying trends within the data were able to be presented.
 
+Through the use of different types of charts we are able to see the data in a more visual state. The use of these e visualizations was a key aspect in seeing the trends occurring such as correlation between two attribute, the effect that one attribute has on the target variable of popularity, or just the overall comparison of all our attributes. A more detailed analysis can be seen by visiting the link below:
 
 ## Data Preparation for Modeling
