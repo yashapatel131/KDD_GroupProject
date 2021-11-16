@@ -24,4 +24,10 @@ There are different types of music, which leads to variation in the attributes t
 We saw the correlation between two attributes:
 ![](Datasets/imageFolder/Corr.png)
 
-, the effect that attributes had on the target variable, and the overall comparison of all the attributes. A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/EDA_and_DataPrep.ipynb)
+the effect that attributes had on the target variable:
+![](Datasets/imageFolder/comp.png)
+
+the overall comparison of all the attributes:
+![](Datasets/imageFolder/histo.png)
+
+A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/EDA_and_DataPrep.ipynb)
