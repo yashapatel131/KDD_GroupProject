@@ -25,7 +25,7 @@ The correlation between two attributes:
 ![](Datasets/imageFolder/Corr.png)
 
 The effect that attributes had on the target variable:
-![](Datasets/imageFolder/comp.png)
+![](Datasets/imageFolder/Comp.png)
 
 The overall comparison of all the attributes:
 ![](Datasets/imageFolder/histo.png)
