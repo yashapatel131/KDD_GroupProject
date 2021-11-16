@@ -21,7 +21,7 @@ Preprocessing is used at the beginning stages to prepare the data for evolution 
 ## Data Understanding and Exploration
 There are different types of music, which leads to variation in the attributes that compose each song. Through the use of visualizations, the underlying trends within the data were presented. By using different types of charts, we were able to see the data in a visual state. The use of these visualizations was an important aspect in seeing the trends. A few of the charts that were created were:
 
-The correlation between two attributes:
+The correlation between all attributes:
 
 <img src="Datasets/imageFolder/Corr.png" width= "500">
 
