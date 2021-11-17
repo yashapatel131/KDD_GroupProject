@@ -23,15 +23,15 @@ There are different types of music, which leads to variation in the attributes t
 
 The correlation between all the attributes:
 
-<img src="Datasets/imageFolder/Corr.png" width= "500">
+<img src="Image/Corr.png" width= "500">
 
 The effect that Loudness and  Danceability attributes had on the target variable:
 
-<img src="Datasets/imageFolder/Comp.png" width= "500">
+<img src="Image/Comp.png" width= "500">
 
 The overall comparison of the attributes:
 
-<img src="Datasets/imageFolder/histo.png" width= "500">
+<img src="Image/histo.png" width= "500">
 
 
 A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/EDA_and_DataPrep.ipynb)
