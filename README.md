@@ -33,5 +33,22 @@ The overall comparison of the attributes:
 
 <img src="Image/histo.png" width= "500">
 
-
 A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/EDA_and_DataPrep.ipynb)
+
+# Data Preparation
+
+# Machine Learning
+
+# Evaluation
+
+# Conclusion
+''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
+    Did you create any new additional features / variables?
+    What was the process you used for evaluation?  What was the best result?
+    What were the problems you faced? How did you solve them?
+    What future work would you like to do? 
+    Instructions for individuals that may want to use your work '''
+
+'''2)  data folder 
+3)  images folder w/ images used in markdown
+4)  src folder: All notebooks, code fully documented with markdown '''
