@@ -13,27 +13,24 @@ Music is all around us and plays a key part in today’s culture. Popularity in 
 Given the past 20 years of data, we want to determine what effect song attributes (Danceability, Energy, Tempo, etc.) have on the popularity of a song that has been obtained from the US population. Can the song attributes predict whether it will be a Grammy award winner?
 
 ## Data Resources
-We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects. The datasets can be found here: [Datasets](https://github.com/yashapatel131/KDD_GroupProject/blob/main/Datasets)
+We have obtained the dataset from Kaggle. This dataset contains song attributes, popularity, Grammy award-winning songs, and other aspects. The datasets can be found here: [Datasets](https://github.com/yashapatel131/KDD_GroupProject/blob/main/Data)
 
 ## Data Preprocessing
-Preprocessing is used at the beginning stages to prepare the data for evolution and modeling. The SongAttributes dataset did not have any missing values, due to which we did not have to deal with the issue of missing data. A new column called popularityLabel was created. This column was calculated based on the Popularity rating. If the popularity value of the song was greater than 20 then the song was given the label of 'Popular' and if less than 20 then, the value was given the label of 'Unpopular.' The new CSV file that was created can be found here: [Song_Atrributes.csv](https://github.com/yashapatel131/KDD_GroupProject/blob/main/Datasets/Song_Attributes.csv)
+Preprocessing is used at the beginning stages to prepare the data for evolution and modeling. The SongAttributes dataset did not have any missing values, due to which we did not have to deal with the issue of missing data. A new column called popularityLabel was created. This column was calculated based on the Popularity rating. If the popularity value of the song was greater than 20 then the song was given the label of 'Popular' and if less than 20 then, the value was given the label of 'Unpopular.' The new CSV file that was created can be found here: [Song_Atrributes.csv](https://github.com/yashapatel131/KDD_GroupProject/blob/main/Data/Song_Attributes.csv)
 
 ## Data Understanding and Exploration
 There are different types of music, which leads to variation in the attributes that compose each song. Through the use of visualizations, the underlying trends within the data were presented. By using different types of charts, we were able to see the data in a visual state. The use of these visualizations was an important aspect in seeing the trends. A few of the charts that were created were:
 
 The correlation between all the attributes:
-
 <img src="Image/Corr.png" width= "500">
 
 The effect that Loudness and  Danceability attributes had on the target variable:
-
 <img src="Image/Comp.png" width= "500">
 
 The overall comparison of the attributes:
-
 <img src="Image/histo.png" width= "500">
 
-A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/EDA_and_DataPrep.ipynb)
+A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/src/EDA_and_DataPrep.ipynb)
 
 # Data Preparation
 
@@ -48,7 +45,3 @@ A more detailed analysis can be seen by visiting the link: [EDA and Data Prepara
     What were the problems you faced? How did you solve them?
     What future work would you like to do? 
     Instructions for individuals that may want to use your work '''
-
-'''2)  data folder 
-3)  images folder w/ images used in markdown
-4)  src folder: All notebooks, code fully documented with markdown '''
