@@ -63,6 +63,13 @@ Random Forest:
 
 From the random forest model we were able to obtain an accuracy score of 60.5% 
 
+Deep Learning Neural Network:
+
+<img src="Image/Neural Network.png" width= "500">
+
+With this neural network we were able to obtain a accuracy of 72.6% 
+
+
 # Conclusion
 ''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
     Did you create any new additional features / variables?
