@@ -36,6 +36,7 @@ The overall comparison of the attributes:
 A more detailed analysis can be seen by visiting the link: [EDA and Data Preparation](https://github.com/yashapatel131/KDD_GroupProject/blob/main/src/EDA_and_DataPrep.ipynb)
 
 # Data Preparation
+Data Preparation included many steps in order to get the data ready for a model. The first task we took on was dropping a number of columns that did not have a direct impact on the model. A few of these columns included: 'ID', 'Album', 'Mode',  and 'Name'. These columns were removed due to them being too broad and not having any significance in the modeling process. Another action that was taken in the preparation process was the dummying of variables. A few variables that we took into consideration of dummying were: 'Artist', 'TimeSignature', and 'Explicit'. These were dummied due to them having a large impact but not having a format compatible with the model. 
 
 # Machine Learning
 
