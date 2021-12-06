@@ -45,6 +45,8 @@ With the decision tree model we used a 70/30 split of the data allocating 70% to
 
 For the second model we were able to create a random forest using a 30/70 split similar to the previous decision tree model. A max depth of 10 with an estimator of 50 as the inputs for the creation of the model. 
 
+A deep neural network was to find the predictions of the popularity of the songs. With this model a 70/30 split was conducted along with a sequential model with an input dimension of 1002 due to that being the number of columns in the dataset post dummying. Furthermore the model was fit on the training data with a iteration of 100 epochs. 
+
 # Evaluation
 
 # Conclusion
