@@ -69,7 +69,7 @@ Deep Learning Neural Network:
 
 With this neural network we were able to obtain a accuracy of 72.6% 
 
-
+With the comparison of these three models we are able to see that the random forest performed slightly better than the decision tree between these two models. Overall the deep learning neural network out performed when comparing all three models with about a 10% higher accuracy score than the other two. 
 # Conclusion
 ''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
     Did you create any new additional features / variables?
