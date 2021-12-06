@@ -41,6 +41,8 @@ Data Preparation included many steps in order to get the data ready for a model.
 # Machine Learning
 The machine learning models that were used in this modeling process were: decision tree, random forest,  and a deep neural network.
 
+With the decision tree model we used a 70/30 split of the data allocating 70% to the training data and 30% to the testing. During the process we were also able to create a function to obtain the max depth for the model. With these results we were then able create two decision trees with the top two max depths. 
+
 # Evaluation
 
 # Conclusion
