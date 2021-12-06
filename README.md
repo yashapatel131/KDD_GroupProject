@@ -43,6 +43,8 @@ The machine learning models that were used in this modeling process were: decisi
 
 With the decision tree model we used a 70/30 split of the data allocating 70% to the training data and 30% to the testing. During the process we were also able to create a function to obtain the max depth for the model. With these results we were then able create two decision trees with the top two max depths. 
 
+For the second model we were able to create a random forest using a 30/70 split similar to the previous decision tree model. A max depth of 10 with an estimator of 50 as the inputs for the creation of the model. 
+
 # Evaluation
 
 # Conclusion
