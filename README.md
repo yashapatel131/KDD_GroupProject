@@ -48,6 +48,12 @@ For the second model we were able to create a random forest using a 30/70 split 
 A deep neural network was to find the predictions of the popularity of the songs. With this model a 70/30 split was conducted along with a sequential model with an input dimension of 1002 due to that being the number of columns in the dataset post dummying. Furthermore the model was fit on the training data with a iteration of 100 epochs. 
 
 # Evaluation
+Decision Tree: 
+<img src="Image/Decision Tree Max 1.png" width= "500">
+<img src="Image/Decision Tree Max 2.png" width= "500">
+
+Here we have the accuracy scores that were presented from out two decision tree models with the top two mx depths. We can see that the one with the higher depth had a greater accuracy score at a 59.1% compared to the second depth at a 58.7%. 
+
 
 # Conclusion
 ''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
