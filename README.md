@@ -57,6 +57,11 @@ Decision Tree:
 
 Here we have the accuracy scores that were presented from out two decision tree models with the top two mx depths. We can see that the one with the higher depth had a greater accuracy score at a 59.1% compared to the second depth at a 58.7%. 
 
+Random Forest: 
+
+<img src="Image/Random Forest.png" width= "500">
+
+From the random forest model we were able to obtain an accuracy score of 60.5% 
 
 # Conclusion
 ''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
