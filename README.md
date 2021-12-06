@@ -71,9 +71,9 @@ With this neural network we were able to obtain a accuracy of 72.6%
 
 With the comparison of these three models we are able to see that the random forest performed slightly better than the decision tree between these two models. Overall the deep learning neural network out performed when comparing all three models with about a 10% higher accuracy score than the other two. 
 # Conclusion
-''' What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
-    Did you create any new additional features / variables?
-    What was the process you used for evaluation?  What was the best result?
-    What were the problems you faced? How did you solve them?
-    What future work would you like to do? 
-    Instructions for individuals that may want to use your work '''
+Through our findings we have come across many new realizations such as how interesting and unique this data was due to it having so many different attributes that had a direct impact on the actual popularity of a song. While taking a deep dive into the data we did notice some imbalance in the data with there being more unpopular songs compared to popular, so appropriate measures were taken to balance out the data to prevent skewing. In order for our models to run smoothly we took the imitative of creation a new variable to use as our target. This variable was used in every model as the target and it was the indicator if a song was popular or unpopular. 
+
+There were many challenges that we faced when working with this data such as how we had to go about figuring out how to create the model and the appropriate features to use while creating the models. Some other challenges that we faced where deciding which variables we would find the most importance and how to use them in the models such as the dummying process and so forth. The way we overcame these trials was by doing some research and finding possible solutions that we could use to implement. Also we were able to rank the variable from most important to least and the ones that were least important we decided to remove. 
+
+In conclusion we would continue this modeling process by going a few steps further and predicting the possibility of Grammy winning songs. Although we were not able to provide the results this time; we have an idea of how to possibly take the data and do some predictive modeling
+
