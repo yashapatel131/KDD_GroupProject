@@ -39,6 +39,7 @@ A more detailed analysis can be seen by visiting the link: [EDA and Data Prepara
 Data Preparation included many steps in order to get the data ready for a model. The first task we took on was dropping a number of columns that did not have a direct impact on the model. A few of these columns included: 'ID', 'Album', 'Mode',  and 'Name'. These columns were removed due to them being too broad and not having any significance in the modeling process. Another action that was taken in the preparation process was the dummying of variables. A few variables that we took into consideration of dummying were: 'Artist', 'TimeSignature', and 'Explicit'. These were dummied due to them having a large impact but not having a format compatible with the model. 
 
 # Machine Learning
+The machine learning models that were used in this modeling process were: decision tree, random forest,  and a deep neural network.
 
 # Evaluation
 
