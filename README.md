@@ -50,8 +50,10 @@ A deep neural network was to find the predictions of the popularity of the songs
 # Evaluation
 Decision Tree: 
 
+<p float="left">
 <img src="Image/Decision Tree Max 1.png" width= "500">
 <img src="Image/Decision Tree Max 2.png" width= "500">
+</p>
 
 Here we have the accuracy scores that were presented from out two decision tree models with the top two mx depths. We can see that the one with the higher depth had a greater accuracy score at a 59.1% compared to the second depth at a 58.7%. 
 
